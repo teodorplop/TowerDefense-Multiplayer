@@ -1,4 +1,4 @@
-# Tower-Defense-Multiplayer
+# Tower Defense Multiplayer
 
 Tower Defense made with Unity3D for a game jam contest
 
